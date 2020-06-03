@@ -19,8 +19,6 @@ ContactCard.propTypes = {
     mobile: PropTypes.string,
     work: PropTypes.string,
     email: PropTypes.string,
-
-
 };
 
 export default ContactCard;
