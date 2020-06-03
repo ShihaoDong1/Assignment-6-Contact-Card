@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment-6-Contact-Card/static/css/main.523f09c5.chunk.css",
+    "main.js": "/Assignment-6-Contact-Card/static/js/main.501da862.chunk.js",
+    "main.js.map": "/Assignment-6-Contact-Card/static/js/main.501da862.chunk.js.map",
+    "runtime-main.js": "/Assignment-6-Contact-Card/static/js/runtime-main.4c832f1d.js",
+    "runtime-main.js.map": "/Assignment-6-Contact-Card/static/js/runtime-main.4c832f1d.js.map",
+    "static/js/2.2c7a8cfe.chunk.js": "/Assignment-6-Contact-Card/static/js/2.2c7a8cfe.chunk.js",
+    "static/js/2.2c7a8cfe.chunk.js.map": "/Assignment-6-Contact-Card/static/js/2.2c7a8cfe.chunk.js.map",
+    "index.html": "/Assignment-6-Contact-Card/index.html",
+    "precache-manifest.18d7252ef77f370bf415886fc7f2e6b4.js": "/Assignment-6-Contact-Card/precache-manifest.18d7252ef77f370bf415886fc7f2e6b4.js",
+    "service-worker.js": "/Assignment-6-Contact-Card/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/Assignment-6-Contact-Card/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.2c7a8cfe.chunk.js.LICENSE.txt": "/Assignment-6-Contact-Card/static/js/2.2c7a8cfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c832f1d.js",
+    "static/js/2.2c7a8cfe.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.501da862.chunk.js"
+  ]
+}
